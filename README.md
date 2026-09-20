@@ -1,5 +1,7 @@
 # 同声传译 · Live Interpreter
 
+[![Self-test](https://github.com/small-student-shi/live-interpreter/actions/workflows/ci.yml/badge.svg)](https://github.com/small-student-shi/live-interpreter/actions/workflows/ci.yml)
+
 **This tool is intended solely for personal learning and assistance. Translation results come from third-party public APIs; please comply with the relevant terms of service.**
 **本工具仅用于个人学习与辅助，翻译结果来自第三方公开接口，请遵守相应服务条款。**
 
