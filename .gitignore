@@ -1,0 +1,25 @@
+# ---- 内置 Node 运行时：不进仓库 ----
+runtime/
+
+# ---- 本机数据：绝不入库 ----
+.history.json
+.history.json.tmp
+
+# ---- 测试/调试临时文件 ----
+_selftest_trace.log
+_*.txt
+_*.log
+_*.png
+_*.jpg
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+*.swp
+Desktop.ini
+Thumbs.db
+.DS_Store
+
+# ---- 依赖目录（本项目零依赖，出现即为误装） ----
+node_modules/
+package-lock.json
